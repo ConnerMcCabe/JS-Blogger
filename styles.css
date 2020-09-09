@@ -1,0 +1,19 @@
+body {
+  flex-direction: row;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: aquamarine;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 30px 30px;
+}
+
+.nav-links {
+  list-style: none;
+}
